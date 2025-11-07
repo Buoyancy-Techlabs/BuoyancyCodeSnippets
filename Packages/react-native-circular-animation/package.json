@@ -1,0 +1,14 @@
+{
+  "name": "react-native-circular-animation",
+  "version": "1.0.3",
+  "description": "React native auto circular animation for specific interval",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buoyancy-techlab/BuoyancyCodeSnippets.git",
+    "directory": "packages/react-native-circular-animation"
+  },
+  "homepage": "https://github.com/buoyancy-techlab/BuoyancyCodeSnippets/tree/main/packages/react-native-circular-animation",
+  "bugs": {
+    "url": "https://github.com/buoyancy-techlab/BuoyancyCodeSnippets/issues"
+  }
+}
