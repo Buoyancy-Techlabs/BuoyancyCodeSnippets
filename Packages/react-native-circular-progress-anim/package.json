@@ -1,14 +1,14 @@
 {
   "name": "react-native-circular-progress-anim",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Package include circular progress animation with linear gradient color stop",
    "repository": {
     "type": "git",
-    "url": "https://github.com/buoyancy-techlab/BuoyancyCodeSnippets.git",
+    "url": "https://github.com/Buoyancy-Techlabs/BuoyancyCodeSnippets.git",
     "directory": "packages/react-native-circular-progress-anim"
   },
-  "homepage": "https://github.com/buoyancy-techlab/BuoyancyCodeSnippets/tree/main/packages/react-native-circular-progress-anim",
+  "homepage": "https://github.com/Buoyancy-Techlabs/BuoyancyCodeSnippets/tree/main/Packages/react-native-circular-progress-anim",
   "bugs": {
-    "url": "https://github.com/buoyancy-techlab/BuoyancyCodeSnippets/issues"
+    "url": "https://github.com/Buoyancy-Techlabs/BuoyancyCodeSnippets/issues"
   }
 }
